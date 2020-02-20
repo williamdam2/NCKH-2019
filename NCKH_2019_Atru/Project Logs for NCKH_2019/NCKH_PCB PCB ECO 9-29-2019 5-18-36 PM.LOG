@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=12V Pin=R46-1
+Removed Pin From Net: NetName=GND_3V3 Pin=R46-1
+Removed Pin From Net: NetName=NetDZ3_2 Pin=R46-2
+Removed Pin From Net: NetName=PA0 Pin=R46-2
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R46 NewDesignator=R48
+Added Component: Designator=R46(R1/4W)
+Added Pin To Net: NetName=12V Pin=R46-1
+Added Pin To Net: NetName=GND_3V3 Pin=R46-1
+Added Pin To Net: NetName=NetDZ3_2 Pin=R46-2
+Added Pin To Net: NetName=PA0 Pin=R46-2
+Added Pin To Net: NetName=NetR48_2 Pin=R48-2
+Added Pin To Net: NetName=NetR48_2 Pin=U1-1
+Added Net: Name=NetR48_2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * Zener
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R47 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R48 Res1

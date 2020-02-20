@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND_198V Pin=T2-3
+Removed Pin From Net: NetName=GND_198V Pin=T3-3
+Removed Pin From Net: NetName=GND_198V Pin=T4-3
+Removed Member From Class: ClassName=NCKH_sch Member=T2
+Removed Member From Class: ClassName=NCKH_sch Member=T3
+Removed Member From Class: ClassName=NCKH_sch Member=T4
+Added Component: Designator=J10(JP1-D1T)
+Added Component: Designator=J11(JP1-D1T)
+Added Component: Designator=J12(JP1-D1T)
+Added Component: Designator=J13(JP1-D1T)
+Added Component: Designator=J14(JP1-D1T)
+Added Component: Designator=J15(JP1-D1T)
+Added Component: Designator=J16(JP1-D1T)
+Added Component: Designator=J17(JP1-D1T)
+Added Component: Designator=J18(JP1-D1T)
+Added Pin To Net: NetName=GND_198V Pin=J10-1
+Added Pin To Net: NetName=GND_198V Pin=J11-1
+Added Pin To Net: NetName=GND_198V Pin=J12-1
+Added Pin To Net: NetName=GND_198V Pin=JP4-2
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ13_1 Pin=J15-1
+Added Net: Name=NetJ13_1
+Added Pin To Net: NetName=R4X1 Pin=J16-1
+Added Pin To Net: NetName=R4X1 Pin=J17-1
+Added Pin To Net: NetName=R4X1 Pin=J18-1
+Added Pin To Net: NetName=R4X1 Pin=R4x1-1
+Added Net: Name=R4X1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component J10 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J11 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J12 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J13 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J14 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J15 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J16 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J17 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J18 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

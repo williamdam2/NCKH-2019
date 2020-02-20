@@ -1,0 +1,40 @@
+Added Pin To Net: NetName=PA8 Pin=SW?-1
+Added Pin To Net: NetName=PA11 Pin=SW?-1
+Added Pin To Net: NetName=PB12 Pin=SW?-1
+Added Pin To Net: NetName=PB13 Pin=SW?-1
+Added Pin To Net: NetName=PB14 Pin=SW?-1
+Added Pin To Net: NetName=PB15 Pin=SW?-1
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-2
+Added Member To Class: ClassName=NCKH_sch Member=Component * Zener
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C? CN-ALU-SMD
+Added Member To Class: ClassName=NCKH_sch Member=Component C? CN-ALU-SMD
+Added Member To Class: ClassName=NCKH_sch Member=Component C? CN-ALU-SMD
+Added Member To Class: ClassName=NCKH_sch Member=Component C? CN-ALU-SMD
+Added Member To Class: ClassName=NCKH_sch Member=Component C? CN-ALU-SMD
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R? 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R? 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R? 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R? 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R? 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW

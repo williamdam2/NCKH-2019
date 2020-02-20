@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=198V Pin=C1-2
+Removed Pin From Net: NetName=GND_198V Pin=C2-1
+Removed Pin From Net: NetName=12V Pin=C19-1
+Removed Pin From Net: NetName=198V Pin=C19-1
+Removed Pin From Net: NetName=GND_3V3 Pin=C19-2
+Removed Pin From Net: NetName=GND_3V3 Pin=C19-2
+Removed Pin From Net: NetName=GND_198V Pin=C19-2
+Removed Pin From Net: NetName=GND_198V Pin=D2-1
+Removed Pin From Net: NetName=GND_3V3 Pin=DZ2-1
+Removed Pin From Net: NetName=198V Pin=F3-1
+Removed Pin From Net: NetName=12V Pin=L1-2
+Removed Pin From Net: NetName=198V Pin=R1-2
+Removed Pin From Net: NetName=NetD1_3 Pin=R5-2
+Removed Pin From Net: NetName=12V Pin=R46-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=R46-2
+Removed Pin From Net: NetName=GND_3V3 Pin=TF1-3
+Removed Pin From Net: NetName=GND_198V Pin=TF1-9
+Removed Pin From Net: NetName=GND_198V Pin=TNY265-5
+Removed Pin From Net: NetName=GND_198V Pin=U1-4
+Removed Member From Class: ClassName=NCKH_sch Member=C1
+Removed Member From Class: ClassName=NCKH_sch Member=C2
+Removed Member From Class: ClassName=NCKH_sch Member=D2
+Removed Member From Class: ClassName=NCKH_sch Member=DZ2
+Removed Member From Class: ClassName=NCKH_sch Member=F3
+Removed Member From Class: ClassName=NCKH_sch Member=L1
+Removed Member From Class: ClassName=NCKH_sch Member=R1
+Removed Member From Class: ClassName=NCKH_sch Member=R5
+Removed Member From Class: ClassName=NCKH_sch Member=R47
+Removed Member From Class: ClassName=NCKH_sch Member=R48
+Removed Member From Class: ClassName=NCKH_sch Member=TF1
+Removed Member From Class: ClassName=NCKH_sch Member=TNY265
+Removed Member From Class: ClassName=NCKH_sch Member=U1
+Added Component: Designator=F?(Fuse4)
+Added Component: Designator=J?(JP1-D1T)
+Added Component: Designator=J?(JP1-D1T)
+Added Component: Designator=J?(JP1-D1T)
+Added Component: Designator=J?(JP1-D1T)
+Added Pin To Net: NetName=NetD1_2 Pin=F?-1
+Added Pin To Net: NetName=12V Pin=J?-1
+Added Pin To Net: NetName=GND_3V3 Pin=J?-1
+Added Pin To Net: NetName=NetD1_3 Pin=J?-1
+Added Pin To Net: NetName=NetD1_3 Pin=JP1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R46-1
+Added Pin To Net: NetName=12V Pin=R46-2
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=J?-1
+Added Net: Name=NetF?_2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component F? Fuse
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

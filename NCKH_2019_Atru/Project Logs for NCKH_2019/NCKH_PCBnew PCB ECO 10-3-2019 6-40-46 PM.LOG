@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=R4X1 Pin=R4x1-1
+Added Component: Designator=Q13(QTO-220)
+Added Component: Designator=R4x2(R1/4W)
+Added Pin To Net: NetName=12V Pin=Q13-2
+Added Pin To Net: NetName=R4X1 Pin=R4x2-1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J? JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component Q13 H1061
+Added Member To Class: ClassName=NCKH_sch Member=Component R4x2 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

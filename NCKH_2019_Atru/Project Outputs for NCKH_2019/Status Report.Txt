@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [NCKH_2019.PrjPcb]
+   Generated File[NCKH_PCB.RUL]
+   Generated File[NCKH_PCB.EXTREP]
+   Generated File[NCKH_PCB.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:19:33 PM On 9/30/2019

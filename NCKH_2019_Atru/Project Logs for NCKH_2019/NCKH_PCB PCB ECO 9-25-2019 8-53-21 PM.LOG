@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND_3V3 Pin=SW1-1
+Removed Pin From Net: NetName=PB12 Pin=SW1-2
+Removed Pin From Net: NetName=GND_3V3 Pin=SW2-1
+Removed Pin From Net: NetName=PB13 Pin=SW2-2
+Removed Pin From Net: NetName=GND_3V3 Pin=SW3-1
+Removed Pin From Net: NetName=PB14 Pin=SW3-2
+Removed Pin From Net: NetName=GND_3V3 Pin=SW4-1
+Removed Pin From Net: NetName=PB15 Pin=SW4-2
+Removed Pin From Net: NetName=GND_3V3 Pin=SW5-1
+Removed Pin From Net: NetName=PA8 Pin=SW5-2
+Removed Pin From Net: NetName=GND_3V3 Pin=SW6-1
+Removed Pin From Net: NetName=PA11 Pin=SW6-2
+Removed Member From Class: ClassName=NCKH_sch Member=SW1
+Removed Member From Class: ClassName=NCKH_sch Member=SW2
+Removed Member From Class: ClassName=NCKH_sch Member=SW3
+Removed Member From Class: ClassName=NCKH_sch Member=SW4
+Removed Member From Class: ClassName=NCKH_sch Member=SW5
+Removed Member From Class: ClassName=NCKH_sch Member=SW6
+Change Component Footprint: Designator=R1 Old Footprint=R1/4W New Footprint=R5W
+Change Component Footprint: Designator=R1 Old Footprint=R1/4W New Footprint=R5W
+Change Component Footprint: Designator=R1 Old Footprint=R1/4W New Footprint=R5W
+Added Component: Designator=SW?(SW4B)
+Added Component: Designator=SW?(SW4B)
+Added Component: Designator=SW?(SW4B)
+Added Component: Designator=SW?(SW4B)
+Added Component: Designator=SW?(SW4B)
+Added Component: Designator=SW?(SW4B)
+Added Pin To Net: NetName=PA8 Pin=SW?-3
+Added Pin To Net: NetName=PA11 Pin=SW?-3
+Added Pin To Net: NetName=PB12 Pin=SW?-3
+Added Pin To Net: NetName=PB13 Pin=SW?-3
+Added Pin To Net: NetName=PB14 Pin=SW?-3
+Added Pin To Net: NetName=PB15 Pin=SW?-3
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Pin To Net: NetName=GND_3V3 Pin=SW?-4
+Added Member To Class: ClassName=NCKH_sch Member=Component * Zener
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW
+Added Member To Class: ClassName=NCKH_sch Member=Component SW? SW

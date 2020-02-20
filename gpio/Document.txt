@@ -1,0 +1,45 @@
+
+
+
+***********************Timer *********************
+có 3 kiểu Timer : +Basic Timer
+                  +General-porpose Timer
+				  +Advanced-control Timer
+trên stm32f103c8 mỗi Timer có 4 chanel 
+
+*********** VD trên Timer4:
+TIMx main features : 
+có cài đặt 4 chức năng cho timer : +Input capture   (VD : xác định độ rộng xung tín hiệu ở 1 kênh của bộ RX từ đó điều khiển thiết bị khác ngoài servo ) 
+                                   +Output compare
+								   +PWM generation
+								   +One-pulse Mode Output (VD tạo 1 xung cho cảm biến siêu âm )
+ 
+
+Cài đặt : 
+// enable ALT funct TIM4 . có thể  phải cả GPIOB nếu muốn tạo xung PWM ra ở portB
+/*RCC->APB2ENR |= RCC_APB2ENR_IOPBEN /*PORTB */|RCC_APB2ENR_AFIOEN /*alt function*/;
+RCC->APB1ENR |= RCC_APB1ENR_TIM4EN /*TIM4*/;  */
+
+đối với chế độ hoạt động bình thường cần quan tâm đến các thanh Ghi :
+TIM4->PSC // prescale
+TIM4->ARR // Auto reload register
+TIM$-CNT //counter register
+// tần số APB sẽ được chia ra nhờ thanh ghi PSC ở đây TIM4 ăn clock của APB1 (chưa biết sẽ được nhân 1 hoặc 2 )
+// => tần số Timer sẽ bằng (Periph.Clock)/(prescaler * ARR) =TimerFreq ;
+TIM4->CR1 // control register 1
+DIR // <4:> direction 0: đếm lên / 1: đếm xuống .
+CEN // <0:> Counter Enable 
+CMS // <5:6> Center-aligned mode selection 00: phụ thuộc vào DIR<4:> /01: đếm lên xuống tạo ngắt compare ở chiều đếm xuống 
+                                           10: tạo ngắt ở chiều lên  /11: tạo ngắt ở cả hai chiều
+
+// ************ PWM GENERATION  ***************************
+// có hai thanh ghi TIM4->CCMR1 ,TIM4->CCMR2 ( TIMx capture/compare mode register ) 1 nửa thanh ghi quản lý mode của 1 Chanel
+//VD để cài đặt dutycycle ở chanel 1 Khi CNT đếm đến CCR1 thì đầu ra chanel 1 (PB6) sẽ được kéo về 0 khi CNT đạt giá trị ARR thì được set về 0
+// như vậy tần số xung phụ thuộc vào thanh ghi PSC và ARR , duty cycle phụ thuộc vào CCRx
+
+// cài đặt
+//(1) enable GPIOB (chanel 1 Timer4) enable alternate funtion RCC_APB2ENR_AFIOEN nối chân với timer ;
+//(2) enable Timer4 (RCC_APB2ENR_TIM4EN)
+//(3) config output cho chân cần sử dụng (CNFy =10 ) (MODE = 11 50MHZ); 
+
+

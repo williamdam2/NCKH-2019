@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=J13 NewDesignator=J15
+Change Component Designator: OldDesignator=J14 NewDesignator=J16
+Change Component Designator: OldDesignator=J15 NewDesignator=J17
+Change Component Designator: OldDesignator=J16 NewDesignator=J20
+Change Component Designator: OldDesignator=J17 NewDesignator=J21
+Change Component Designator: OldDesignator=J18 NewDesignator=J22
+Added Component: Designator=J13(JP1-D1T)
+Added Component: Designator=J14(JP1-D1T)
+Added Component: Designator=J18(JP1-D1T)
+Added Component: Designator=J19(JP1-D1T)
+Added Component: Designator=J23(JP1-D1T)
+Added Component: Designator=J24(JP1-D1T)
+Added Pin To Net: NetName=GND_198V Pin=J13-1
+Added Pin To Net: NetName=GND_198V Pin=J14-1
+Added Pin To Net: NetName=OUT Pin=J18-1
+Added Pin To Net: NetName=OUT Pin=J19-1
+Added Pin To Net: NetName=R4X1 Pin=J23-1
+Added Pin To Net: NetName=R4X1 Pin=J24-1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component J19 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J20 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J21 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J22 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J23 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J24 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

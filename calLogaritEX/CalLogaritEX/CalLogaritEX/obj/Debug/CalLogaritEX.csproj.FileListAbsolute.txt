@@ -1,0 +1,6 @@
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\obj\Debug\CalLogaritEX.csprojAssemblyReference.cache
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\obj\Debug\CalLogaritEX.csproj.CoreCompileInputs.cache
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\bin\Debug\CalLogaritEX.exe
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\bin\Debug\CalLogaritEX.pdb
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\obj\Debug\CalLogaritEX.exe
+G:\automatical\nckh2019\calLogaritEX\CalLogaritEX\CalLogaritEX\obj\Debug\CalLogaritEX.pdb

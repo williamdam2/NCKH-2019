@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND_3V3 Pin=IC1-8
+Added Pin To Net: NetName=3V3 Pin=IC1-16
+Added Pin To Net: NetName=GND_3V3 Pin=IC2-8
+Added Pin To Net: NetName=3V3 Pin=IC2-16
+Change Net Name : Old Net Name=3V3 New Net Name=VCC
+Change Net Name : Old Net Name=GND_3V3 New Net Name=GND
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

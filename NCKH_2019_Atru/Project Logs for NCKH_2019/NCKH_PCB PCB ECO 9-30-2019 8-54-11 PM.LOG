@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=PB14 Pin=IC1-11
+Removed Pin From Net: NetName=PB13 Pin=IC1-12
+Removed Pin From Net: NetName=PB12 Pin=IC1-14
+Removed Pin From Net: NetName=PB14 Pin=IC2-11
+Removed Pin From Net: NetName=PB12 Pin=IC2-14
+Removed Pin From Net: NetName=PB0 Pin=R4x3-2
+Added Pin To Net: NetName=PB5 Pin=IC1-11
+Added Pin To Net: NetName=PB4 Pin=IC1-12
+Added Pin To Net: NetName=PB3 Pin=IC1-14
+Added Pin To Net: NetName=PB5 Pin=IC2-11
+Added Pin To Net: NetName=PB3 Pin=IC2-14
+Added Pin To Net: NetName=PB8 Pin=R4x3-2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

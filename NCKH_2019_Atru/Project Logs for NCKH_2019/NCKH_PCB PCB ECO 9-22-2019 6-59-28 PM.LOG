@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=PC13 Pin=R9-2
+Removed Pin From Net: NetName=NetQ13_1 Pin=R10-1
+Removed Pin From Net: NetName=NetR11_1 Pin=R11-1
+Removed Pin From Net: NetName=NetQ13_3 Pin=R11-2
+Removed Pin From Net: NetName=PC14 Pin=R120-2
+Removed Member From Class: ClassName=NCKH_sch Member=R9
+Removed Member From Class: ClassName=NCKH_sch Member=R10
+Removed Member From Class: ClassName=NCKH_sch Member=R11
+Removed Member From Class: ClassName=NCKH_sch Member=R120
+Removed Member From Class: ClassName=NCKH_sch Member=R121
+Added Component: Designator=Re10(R1/4W)
+Added Component: Designator=Re10(R1/4W)
+Added Component: Designator=Re10(R1/4W)
+Added Component: Designator=Re10(R1/4W)
+Added Component: Designator=Re10(R1/4W)
+Added Pin To Net: NetName=NetQ13_1 Pin=Re10-1
+Added Pin To Net: NetName=NetR11_1 Pin=Re10-1
+Added Pin To Net: NetName=NetQ13_3 Pin=Re10-2
+Added Pin To Net: NetName=PC13 Pin=Re10-2
+Added Pin To Net: NetName=PC14 Pin=Re10-2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetRe10_1
+Added Pin To Net: NetName=NetRe10_2 Pin=Re10-2
+Added Pin To Net: NetName=NetRe10_2 Pin=U2-3
+Added Net: Name=NetRe10_2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 47R
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1

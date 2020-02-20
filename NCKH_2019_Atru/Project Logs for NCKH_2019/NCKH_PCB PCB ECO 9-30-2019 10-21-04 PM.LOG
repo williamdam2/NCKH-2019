@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=NCKH_sch Member=T2
+Removed Member From Class: ClassName=NCKH_sch Member=T3
+Removed Member From Class: ClassName=NCKH_sch Member=T4
+Added Pin To Net: NetName=NETLABEL356 Pin=D1-4
+Added Pin To Net: NetName=NetJ13_1 Pin=JP4-2
+Added Pin To Net: NetName=NETLABEL357 Pin=R4x1-1
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=OUT
+Change Net Name : Old Net Name=NETLABEL356 New Net Name=GND_198V
+Change Net Name : Old Net Name=NETLABEL357 New Net Name=R4X1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

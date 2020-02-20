@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=G2 Pin=DS1-1
+Removed Pin From Net: NetName=DE2 Pin=DS1-2
+Removed Pin From Net: NetName=A2 Pin=DS1-3
+Removed Pin From Net: NetName=F2 Pin=DS1-4
+Removed Pin From Net: NetName=D_9 Pin=DS1-5
+Removed Pin From Net: NetName=D2 Pin=DS1-6
+Removed Pin From Net: NetName=E2 Pin=DS1-7
+Removed Pin From Net: NetName=C2 Pin=DS1-8
+Removed Pin From Net: NetName=B2 Pin=DS1-9
+Removed Pin From Net: NetName=D_10 Pin=DS1-10
+Removed Pin From Net: NetName=E1 Pin=DS2-1
+Removed Pin From Net: NetName=D1 Pin=DS2-2
+Removed Pin From Net: NetName=DE1 Pin=DS2-3
+Removed Pin From Net: NetName=C1 Pin=DS2-4
+Removed Pin From Net: NetName=G1 Pin=DS2-5
+Removed Pin From Net: NetName=D_8 Pin=DS2-6
+Removed Pin From Net: NetName=B1 Pin=DS2-7
+Removed Pin From Net: NetName=D_7 Pin=DS2-8
+Removed Pin From Net: NetName=D_6 Pin=DS2-9
+Removed Pin From Net: NetName=F1 Pin=DS2-10
+Removed Pin From Net: NetName=A1 Pin=DS2-11
+Removed Pin From Net: NetName=D_5 Pin=DS2-12
+Removed Pin From Net: NetName=E Pin=DS3-1
+Removed Pin From Net: NetName=D Pin=DS3-2
+Removed Pin From Net: NetName=DE Pin=DS3-3
+Removed Pin From Net: NetName=C Pin=DS3-4
+Removed Pin From Net: NetName=G Pin=DS3-5
+Removed Pin From Net: NetName=D_4 Pin=DS3-6
+Removed Pin From Net: NetName=B Pin=DS3-7
+Removed Pin From Net: NetName=D_3 Pin=DS3-8
+Removed Pin From Net: NetName=D_2 Pin=DS3-9
+Removed Pin From Net: NetName=F Pin=DS3-10
+Removed Pin From Net: NetName=A Pin=DS3-11
+Removed Pin From Net: NetName=D_1 Pin=DS3-12
+Removed Member From Class: ClassName=NCKH_sch Member=DS1
+Removed Member From Class: ClassName=NCKH_sch Member=DS2
+Removed Member From Class: ClassName=NCKH_sch Member=DS3
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 47R
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 1k

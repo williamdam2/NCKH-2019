@@ -1,0 +1,11 @@
+G:\automatical\nckh2019\zed\zed\bin\Debug\zed.exe
+G:\automatical\nckh2019\zed\zed\bin\Debug\zed.pdb
+G:\automatical\nckh2019\zed\zed\bin\Debug\ZedGraph.dll
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.csprojAssemblyReference.cache
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.Form1.resources
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.Properties.Resources.resources
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.csproj.GenerateResource.cache
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.csproj.CoreCompileInputs.cache
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.csproj.CopyComplete
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.exe
+G:\automatical\nckh2019\zed\zed\obj\Debug\zed.pdb

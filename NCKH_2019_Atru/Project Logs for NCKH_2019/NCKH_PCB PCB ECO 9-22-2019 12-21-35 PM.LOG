@@ -1,0 +1,46 @@
+Change Component Designator: OldDesignator=R12 NewDesignator=R1
+Change Component Designator: OldDesignator=R12 NewDesignator=R2
+Change Component Designator: OldDesignator=R12 NewDesignator=R3
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=R12 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R12 NewDesignator=R120
+Change Component Designator: OldDesignator=R12 NewDesignator=R121
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR121_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U3-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-4
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR120_1 Pin=R120-1
+Added Pin To Net: NetName=NetR120_1 Pin=U2-1
+Added Net: Name=NetR120_1
+Added Pin To Net: NetName=NetR121_1 Pin=R121-1
+Added Pin To Net: NetName=NetR121_1 Pin=T1-1
+Added Net: Name=NetR121_1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 47R
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R8 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R9 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R10 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R11 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R120 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R121 1k

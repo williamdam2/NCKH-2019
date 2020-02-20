@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=R46 NewDesignator=R20
+Change Component Designator: OldDesignator=R46 NewDesignator=R21
+Change Component Designator: OldDesignator=R46 NewDesignator=R22
+Change Component Designator: OldDesignator=R46 NewDesignator=R23
+Change Component Designator: OldDesignator=R46 NewDesignator=R24
+Change Component Designator: OldDesignator=R46 NewDesignator=R25
+Change Component Designator: OldDesignator=R46 NewDesignator=R26
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR46_2 New Net Name=NetR25_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U3-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U3-4
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=T2-1
+Added Pin To Net: NetName=NetR24_1 Pin=T3-1
+Added Pin To Net: NetName=NetR24_1 Pin=T4-1
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U2-1
+Added Net: Name=NetR26_1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R20 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R22 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R23 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R24 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R25 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R26 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1

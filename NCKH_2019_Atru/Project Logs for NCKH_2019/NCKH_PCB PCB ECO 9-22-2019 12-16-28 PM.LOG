@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP4
+Change Net Name : Old Net Name=NetJP1_1 New Net Name=NetJP3_1
+Change Net Name : Old Net Name=NetJP1_2 New Net Name=NetJP4_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=R5-1
+Added Net: Name=NetJP1_1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN

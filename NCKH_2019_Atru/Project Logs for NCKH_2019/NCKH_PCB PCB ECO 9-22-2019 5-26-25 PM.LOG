@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetQ3_3 Pin=R8-1
+Removed Pin From Net: NetName=PB12 Pin=R8-2
+Removed Pin From Net: NetName=NetQ4_3 Pin=R9-1
+Removed Pin From Net: NetName=PB13 Pin=R9-2
+Removed Pin From Net: NetName=NetQ5_3 Pin=R10-1
+Removed Pin From Net: NetName=PB14 Pin=R10-2
+Removed Pin From Net: NetName=NetQ6_3 Pin=R11-1
+Removed Pin From Net: NetName=PB15 Pin=R11-2
+Removed Pin From Net: NetName=NetQ7_3 Pin=R12-1
+Removed Pin From Net: NetName=PA8 Pin=R12-2
+Removed Pin From Net: NetName=NetQ8_3 Pin=R13-1
+Removed Pin From Net: NetName=PA9 Pin=R13-2
+Removed Pin From Net: NetName=NetQ9_3 Pin=R14-1
+Removed Pin From Net: NetName=PA10 Pin=R14-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R15-1
+Removed Pin From Net: NetName=PA11 Pin=R15-2
+Removed Pin From Net: NetName=NetQ11_3 Pin=R16-1
+Removed Pin From Net: NetName=PA12 Pin=R16-2
+Removed Pin From Net: NetName=NetQ12_3 Pin=R17-1
+Removed Pin From Net: NetName=PA15 Pin=R17-2
+Removed Member From Class: ClassName=NCKH_sch Member=R12
+Removed Member From Class: ClassName=NCKH_sch Member=R13
+Removed Member From Class: ClassName=NCKH_sch Member=R14
+Removed Member From Class: ClassName=NCKH_sch Member=R15
+Removed Member From Class: ClassName=NCKH_sch Member=R16
+Removed Member From Class: ClassName=NCKH_sch Member=R17
+Added Component: Designator=Re1(R1/4W)
+Added Component: Designator=Re2(R1/4W)
+Added Component: Designator=Re3(R1/4W)
+Added Component: Designator=Re4(R1/4W)
+Added Component: Designator=Re5(R1/4W)
+Added Component: Designator=Re6(R1/4W)
+Added Component: Designator=Re7(R1/4W)
+Added Component: Designator=Re8(R1/4W)
+Added Component: Designator=Re9(R1/4W)
+Added Component: Designator=Re10(R1/4W)
+Added Pin To Net: NetName=NetQ3_3 Pin=Re1-1
+Added Pin To Net: NetName=PB12 Pin=Re1-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Re2-1
+Added Pin To Net: NetName=PB13 Pin=Re2-2
+Added Pin To Net: NetName=NetQ5_3 Pin=Re3-1
+Added Pin To Net: NetName=PB14 Pin=Re3-2
+Added Pin To Net: NetName=NetQ6_3 Pin=Re4-1
+Added Pin To Net: NetName=PB15 Pin=Re4-2
+Added Pin To Net: NetName=NetQ7_3 Pin=Re5-1
+Added Pin To Net: NetName=PA8 Pin=Re5-2
+Added Pin To Net: NetName=NetQ8_3 Pin=Re6-1
+Added Pin To Net: NetName=PA9 Pin=Re6-2
+Added Pin To Net: NetName=NetQ9_3 Pin=Re7-1
+Added Pin To Net: NetName=PA10 Pin=Re7-2
+Added Pin To Net: NetName=NetQ10_3 Pin=Re8-1
+Added Pin To Net: NetName=PA11 Pin=Re8-2
+Added Pin To Net: NetName=NetQ11_3 Pin=Re9-1
+Added Pin To Net: NetName=PA12 Pin=Re9-2
+Added Pin To Net: NetName=NetQ12_3 Pin=Re10-1
+Added Pin To Net: NetName=PA15 Pin=Re10-2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 47R
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component Re1 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re2 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re3 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re4 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re5 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re6 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re7 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re8 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re9 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component Re10 Res1

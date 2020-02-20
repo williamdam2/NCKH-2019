@@ -1,0 +1,45 @@
+Added Component: Designator=C19(CP2/5)
+Added Component: Designator=JP1(HED2)
+Added Component: Designator=R46(R1/4W)
+Added Component: Designator=ZD?(DIP14/W0.3)
+Added Pin To Net: NetName=GND_3V3 Pin=C19-2
+Added Pin To Net: NetName=PA0 Pin=R46-1
+Added Pin To Net: NetName=GND_3V3 Pin=ZD?-4
+Added Pin To Net: NetName=GND_3V3 Pin=ZD?-7
+Added Pin To Net: NetName=3V3 Pin=ZD?-11
+Added Pin To Net: NetName=GND_3V3 Pin=ZD?-13
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=R46-2
+Added Pin To Net: NetName=NetC19_1 Pin=ZD?-8
+Added Pin To Net: NetName=NetC19_1 Pin=ZD?-9
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=ZD?-14
+Added Net: Name=NetJP1_2
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component C19 Cap Pol3
+Added Member To Class: ClassName=NCKH_sch Member=Component JP1 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component JP4 JP6 PIN
+Added Member To Class: ClassName=NCKH_sch Member=Component R1 47k
+Added Member To Class: ClassName=NCKH_sch Member=Component R2 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R3 470R
+Added Member To Class: ClassName=NCKH_sch Member=Component R4 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R5 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R6 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R7 1k
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component ZD? DIP14

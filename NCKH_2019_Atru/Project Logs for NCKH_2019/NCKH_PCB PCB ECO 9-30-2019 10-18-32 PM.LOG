@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND_198V Pin=D1-4
+Removed Pin From Net: NetName=GND_198V Pin=JP4-2
+Removed Pin From Net: NetName=R4X1 Pin=R4x1-1
+Added Component: Designator=T2(TO220H1)
+Added Component: Designator=T3(TO220H1)
+Added Component: Designator=T4(TO220H1)
+Change Net Name : Old Net Name=GND_198V New Net Name=NETLABEL356
+Change Net Name : Old Net Name=R4X1 New Net Name=NETLABEL357
+Added Pin To Net: NetName=GND_198V Pin=D1-4
+Added Pin To Net: NetName=GND_198V Pin=T2-3
+Added Pin To Net: NetName=GND_198V Pin=T3-3
+Added Pin To Net: NetName=GND_198V Pin=T4-3
+Added Net: Name=GND_198V
+Added Pin To Net: NetName=NetJP4_2 Pin=JP4-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T2-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T2-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T3-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T3-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T4-2
+Added Pin To Net: NetName=NetJP4_2 Pin=T4-2
+Added Net: Name=NetJP4_2
+Added Pin To Net: NetName=NetR4x1_1 Pin=R4x1-1
+Added Pin To Net: NetName=NetR4x1_1 Pin=T2-1
+Added Pin To Net: NetName=NetR4x1_1 Pin=T3-1
+Added Pin To Net: NetName=NetR4x1_1 Pin=T4-1
+Added Net: Name=NetR4x1_1
+Added Member To Class: ClassName=NCKH_sch Member=Component * JP5
+Added Member To Class: ClassName=NCKH_sch Member=Component J1 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J2 JP1
+Added Member To Class: ClassName=NCKH_sch Member=Component J3 JP4
+Added Member To Class: ClassName=NCKH_sch Member=Component JP3 Header 2_1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component R46 Res1
+Added Member To Class: ClassName=NCKH_sch Member=Component T2 IRF840
+Added Member To Class: ClassName=NCKH_sch Member=Component T3 IRF840
+Added Member To Class: ClassName=NCKH_sch Member=Component T4 IRF840
